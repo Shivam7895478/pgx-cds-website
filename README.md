@@ -12,6 +12,7 @@ Static site for the **PGx Clinical Decision Support** mobile app: home page, pri
 After deploy, use these URLs in Play Console:
 
 - Privacy policy: `https://<your-domain>/privacy`
+- **Account deletion (Data safety):** `https://<your-domain>/account-deletion`
 - Terms (optional link): `https://<your-domain>/terms`
 
 ## Local preview
